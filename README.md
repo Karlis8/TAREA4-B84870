@@ -8,10 +8,15 @@ Implementación de un **stack (pila)** y una **lista enlazada** en C, con prueba
 
 ## Estructura del proyecto
 Carpeta
+
 ├── stack.h (Interfaz del stack)
+
 ├── stack.c (Implementación del stack)
+
 ├── linked_list.h (Interfaz de lista enlazada)
+
 ├── linked_list.c (Implementación de lista enlazada)
+
 └── main.c (Programa principal con pruebas)
  
 
